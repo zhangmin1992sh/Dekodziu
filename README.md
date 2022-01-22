@@ -1,0 +1,2 @@
+# Dekodziu
+Kod z lekcji
